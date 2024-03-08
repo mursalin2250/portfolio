@@ -223,7 +223,7 @@ nav ul li a:hover{
     color: #015fa9;
 }
 #gallery{
-    height: 760px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
